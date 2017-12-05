@@ -1,19 +1,19 @@
 {
-  "name": "node-debug",
+  "name": "node-debug-log",
   "version": "0.0.1",
-  "description": "Debug console extension",
+  "description": "Debug console extension with the process.pid and current time prefix",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itivanov/node-debug.git"
+    "url": "git+https://github.com/itivanov/node-debug-log.git"
   },
   "author": "Ivan Ivanov <itanev@gmail.com> (https://github.com/itivanov)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/itivanov/node-debug/issues"
+    "url": "https://github.com/itivanov/node-debug-log/issues"
   },
-  "homepage": "https://github.com/itivanov/node-debug#readme"
+  "homepage": "https://github.com/itivanov/node-debug-log#readme"
 }

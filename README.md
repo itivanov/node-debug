@@ -1,4 +1,4 @@
-# Node.js Debug
+# Node.js Debug log
 
 Debug console extension with the process.pid and current time prefix
 
