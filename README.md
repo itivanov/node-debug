@@ -16,7 +16,7 @@ var debug = require('node-debug-log');
 
 ### log()
 
-Logs the message as if you called console.log but prefixes the output with the process.pid and current time
+Logs the message as if you called console.log but prefixes the output with the process.pid and current time 
 
 ``` js
 debug.log('APP', 'Starting server', port);
