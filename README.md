@@ -5,13 +5,13 @@ Debug console extension with the process.pid and current time prefix
 ## Installation
 
 ```
-npm install node-debug --save
+npm install node-debug-log --save
 ```
 
 ## Usage
 
 ``` js
-var debug = require('node-debug');
+var debug = require('node-debug-log');
 ```
 
 ### log()
