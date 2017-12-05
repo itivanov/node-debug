@@ -1,6 +1,6 @@
 # Node.js Debug
 
-Debug console extension
+Debug console extension with the process.pid and current time prefix
 
 ## Installation
 
