@@ -1,6 +1,6 @@
 {
   "name": "node-debug-log",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Debug console extension with the process.pid and current time prefix",
   "main": "index.js",
   "scripts": {
